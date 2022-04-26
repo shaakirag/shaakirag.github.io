@@ -4,7 +4,16 @@ title:  "ENEL 327"
 date:   2022-04-10 18:02:46 -0600
 categories: jekyll update
 ---
-With ENEL 327, I expected to learn about a key idea in electrical engineering: signals and how to analyze and process them to evaluate circuits and transfer information using analog signals. Many of my family members have a telecommunications background, which led me to the idea of how signals are employed in wireless networks. I was particularly intrigued by the concept of digital-to-analog and analog-to-digital conversion and how it applied to information traveling across the globe. These interests coincide rather well with the course's objectives and content; the final teaching project in Modulation allowed me to examine the principles of signals in an applied setting, which I tied to 5G networks, a contemporary trend in communications. I was surprised to read about the significant differences between 5G and 4G and 4G-LTE in terms of allowable frequencies, cell structure in semiconductor chips, and all the additional infrastructure required to provide considerably quicker and more secure internet.
+
+{:style="text-align:center;"}
+<img src="{{site.baseurl}}/assets/img/d.png">
+
+Fig 1: caption
+{:style="text-align:center;"}
+
+----
+
+With **ENEL 327**, I expected _to learn_ about a `key idea` in electrical engineering: signals and how to analyze and process them to evaluate circuits and transfer information using analog signals. Many of my family members have a telecommunications background, which led me to the idea of how signals are employed in wireless networks. I was particularly intrigued by the concept of digital-to-analog and analog-to-digital conversion and how it applied to information traveling across the globe. These interests coincide rather well with the course's objectives and content; the final teaching project in Modulation allowed me to examine the principles of signals in an applied setting, which I tied to 5G networks, a contemporary trend in communications. I was surprised to read about the significant differences between 5G and 4G and 4G-LTE in terms of allowable frequencies, cell structure in semiconductor chips, and all the additional infrastructure required to provide considerably quicker and more secure internet.
 
 ENEL 327 was a course that combined theory and practice. There were numerous opportunities for me to improve my MATLAB practical abilities by seeing and analyzing signals in the programming platform. This greatly improved my information retention since I trained my brain to apply theoretical principles to an experiment-type circumstance every time I learnt something new. I was also using MATLAB at work in a signal-related capacity, which fueled my desire to learn the tool. Because I am minoring in computer engineering, the DAC/ADC lab exam piqued my interest because it incorporated many of the computer architectures we studied in Digital Circuits last semester, such as counters and shift registers. This not only refreshed my recollection of the topics, but it also broadened my view on how complex phenomena such as waves can be represented as something as simple as 0s and 1s. This led me to appreciate the field of computer architecture even more.
 
